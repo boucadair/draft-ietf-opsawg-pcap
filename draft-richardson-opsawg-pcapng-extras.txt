@@ -37,7 +37,7 @@ Discussion Venues
    https://mailarchive.ietf.org/arch/browse/opsawg/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/pcapng/pcapng.
+   https://github.com/IETF-OPSAWG-WG/draft-ietf-opsawg-pcap.
 
 Status of This Memo
 
