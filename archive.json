@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2023-01-24T01:27:17.477727+00:00",
+  "timestamp": "2023-01-26T01:25:31.611337+00:00",
   "repo": "IETF-OPSAWG-WG/draft-ietf-opsawg-pcap",
   "labels": [
     {
@@ -2119,6 +2119,22 @@
           "updatedAt": "2022-11-25T22:11:28Z"
         }
       ]
+    },
+    {
+      "number": 126,
+      "id": "I_kwDOAU54e85czWb0",
+      "title": "should we reserve a bit in BLOCK TYPES for do-not-copy?",
+      "url": "https://github.com/IETF-OPSAWG-WG/draft-ietf-opsawg-pcap/issues/126",
+      "state": "OPEN",
+      "author": "mcr",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "   [Open issue: reserve 0x40000000-0x7FFFFFFF for do-not-copy-bit range\r\n   of base types?]\r\n",
+      "createdAt": "2023-01-25T16:47:59Z",
+      "updatedAt": "2023-01-25T16:47:59Z",
+      "closedAt": null,
+      "comments": []
     }
   ],
   "pulls": [
